@@ -1,0 +1,13 @@
+- npm create vite@latest
+- npm i react@experimental react-dom@experimental 
+
+// here we have use() hook that help to fetch data , don't have to use useEffect() now (but only in server side components)
+// to use context we use -> useContext(Context) , but now we can use use() like this way -> use(context)
+
+// handling of Form by the action 
+
+// handling of Form by formStatus() hook 
+
+// useActionState() hook 
+
+// useTransition() hook 
